@@ -5,5 +5,5 @@ Controlled from anywhere in the world via mobile phones.
 to adjust the use of electrical appliances to save the most efficient. Prevent accidents
 Fires prevent fires from opening electrical appliances for too long or short circuits
 3. To study the operation of the arduino esp32 board<br>
-Project documents (https://shorturl.asia/K4jIh)<br>
+Project documents ([https://shorturl.asia/K4jIh])<br>
 Video https://www.youtube.com/watch?v=9SPlrwFYjJc
